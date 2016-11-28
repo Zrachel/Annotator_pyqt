@@ -4,6 +4,11 @@
 A pyqt based annotation tool
 
 ## How to use
-for each line,
-	click, if you think it is important
-	not click, else
+for each line,<br/>
+ - click, if you think it is important<br/>
+ - not click, else
+
+![image]
+(img/effective_image.png)
+
+
